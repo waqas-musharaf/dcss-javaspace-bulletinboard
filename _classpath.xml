@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/waqas/apache-river-3.0.0-modifiedByGA/apache-river-3.0.0/lib/jsk-lib.jar"/>
+	<classpathentry kind="lib" path="/home/waqas/apache-river-3.0.0-modifiedByGA/apache-river-3.0.0/lib/jsk-platform.jar"/>
+	<classpathentry kind="lib" path="/home/waqas/apache-river-3.0.0-modifiedByGA/apache-river-3.0.0/lib/outrigger.jar"/>
+	<classpathentry kind="lib" path="/home/waqas/apache-river-3.0.0-modifiedByGA/apache-river-3.0.0/lib/reggie.jar"/>
+	<classpathentry kind="lib" path="/home/waqas/apache-river-3.0.0-modifiedByGA/apache-river-3.0.0/lib-dl/reggie-dl.jar"/>
+	<classpathentry kind="lib" path="/home/waqas/commons-codec-1.11/commons-codec-1.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
